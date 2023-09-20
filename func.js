@@ -1,0 +1,1 @@
+alert("This is Exam website!\nBy a college student\nDo you agree?(click OK to process)");

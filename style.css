@@ -1,3 +1,29 @@
 body {
-    background-image: url(./image/arch-chan.png);
+    background-image: url(./image/archchan.png);
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    color: white;
+}
+h2 {
+    background-color: white;
+    display: inline;
+    padding: 5px;
+    white-space: pre-wrap;
+}
+h3 {
+    color: white;
+}
+
+.tab32 {
+    tab-size: 32;
+}
+.br {
+    display: block;
+    margin-bottom: 0em;
 }
